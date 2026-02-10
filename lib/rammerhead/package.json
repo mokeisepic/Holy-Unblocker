@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/binary-person/rammerhead#readme",
   "dependencies": {
-    "dotenv-flow": "^4.1.0"
+    "dotenv-flow": "^4.1.0",
     "async-exit-hook": "^2.0.1",
     "cookie": "^0.5.0",
     "fastify": "^4.26.2",
